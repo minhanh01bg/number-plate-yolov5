@@ -1,0 +1,8 @@
+data_detect/data/
+data_detect/video/
+data_plate_detect/
+models/
+object_detection/
+yolov5/
+data/
+data_detect/
